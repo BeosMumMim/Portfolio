@@ -98,9 +98,10 @@ img {
   margin: 20px auto;
 }
 .profile {
-  width: 200px;
-  border-radius: 10px;
-  display: block;
-  margin: 20px auto;
+  width: 0px;   
+  max-width: 100%;
+  height: auto;
 }
+
+
 
