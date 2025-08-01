@@ -98,10 +98,14 @@ img {
   margin: 20px auto;
 }
 .profile {
-  width: 0px;   
-  max-width: 100%;
+  width: 120px;
   height: auto;
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
 }
+
+
 
 
 
