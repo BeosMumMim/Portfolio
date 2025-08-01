@@ -99,12 +99,13 @@ img {
 }
 
 .profile {
-  width: 120px;
+  width: 240px;
   height: auto;
   display: block;
   margin: 20px auto;
   border-radius: 10px;
 }
+
 
 
 
